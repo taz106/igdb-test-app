@@ -1,0 +1,8 @@
+.Game-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.List-header {
+  text-align: center;
+}
